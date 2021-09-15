@@ -1,0 +1,23 @@
+.pagination{
+ width: calc(100vw - 200px);
+ height: 40px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin-top: 20px;
+}
+
+.pagination-button{
+  width: 30px;
+  height: 100%;
+  padding-top: 8px;
+  background-color: rgb(27, 27, 73);
+  color: rgb(236, 193, 100);
+  margin-right: 20px;
+  align-items: center;
+  text-align: center;
+}
+
+.left{
+    margin-right: 20px;
+}

@@ -1,0 +1,7 @@
+.movies-table{
+   width:calc(100vw - 300px);
+   height :calc(100vh - 260px);
+   border: 1px solid black;
+   box-shadow: 0 0 2px 1px rgb(221, 210, 175) ;
+   background-color: rgb(27, 27, 73);
+}

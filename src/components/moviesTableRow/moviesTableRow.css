@@ -1,0 +1,19 @@
+.movies-table-row{
+ display: flex;
+ height: 11.11%;
+ border-bottom: 1px solid gray;
+ 
+ color: rgb(236, 193, 100);
+}
+
+.column{
+    width: 25%;;
+    display: flex;
+    justify-content: center;
+    align-items : center;
+    border-right: 1px solid gray;
+
+}
+/* .column-d{
+    background-color: rgb(27, 27, 73);
+} */

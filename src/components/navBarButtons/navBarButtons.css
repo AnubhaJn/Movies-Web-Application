@@ -1,0 +1,17 @@
+.navbar-buttons{
+    padding-left: 20px;
+    padding-right: 35px;
+    display: inline-flex;
+    align-items: center;
+    height: 100%;
+    color: rgb(236, 193, 100);
+    border-right: 1px solid grey;
+    font-size: 20px;
+}
+
+.navbar-buttons:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    background-color: lightgrey;
+    color: black;
+}

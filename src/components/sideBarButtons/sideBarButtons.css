@@ -1,0 +1,15 @@
+.sidebar-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    background-color: rgb(27, 27, 73);
+    border-bottom: 1px solid lightgray;
+    font-size: 20px;
+}
+.sidebar-button:hover{
+    cursor: pointer;
+    transform: scale(1.005);
+    background-color: lightgrey;
+    color: black;
+}
