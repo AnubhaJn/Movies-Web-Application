@@ -8,7 +8,7 @@ class Navigator extends React.Component{
         return(
             <BrowserRouter>
               <Switch>
-                <Route path="/movies" component={MoviesList}></Route>
+                <Route path="/" component={MoviesList}></Route>
                 {/* <Route path="/header" component={NavBar}></Route> */}
               </Switch>
             </BrowserRouter>
